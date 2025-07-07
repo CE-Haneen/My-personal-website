@@ -1,0 +1,89 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #f9f9f9;
+  color: #333;
+  padding: 30px;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.profile-img {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 2px !important;
+}
+
+.name {
+  font-size: 32px;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+
+.name:hover {
+  color: #48494b;
+}
+
+
+.bio, .contact, .interests {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.contact a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.left {
+  text-align: left;
+}
+
+button {
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  background-color: #333333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color:#000000;
+}
+
+body:not(.dark-mode) .title-sub {
+  font-size: 14px;
+  color: #333333;
+  font-weight: 400;
+}
+
+body.dark-mode .title-sub {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.centered {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.name {
+  font-size: 32px;
+  font-weight: bold;
+  transition: color 0.3s ease;
+  margin-bottom: 4px;
+}
+
+.title-sub {
+  margin-top: 0;
+}
