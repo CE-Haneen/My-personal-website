@@ -21,7 +21,7 @@ A simple personal website showcasing my information, technical interests, and co
 ## Preview
 
 ### Light Mode
-![Light Mode](ttps://github.com/user-attachments/assets/18e9fd52-603c-43b6-b3cb-15a102237e23)
+![Light Mode](https://github.com/user-attachments/assets/90f6268a-eea4-416b-a94d-d5b5b3e15666)
 
 ### Dark Mode 
 ![Dark Mode](https://github.com/user-attachments/assets/3033e085-e026-4a1e-a6c0-71115bfe465f)
