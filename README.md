@@ -10,7 +10,7 @@ A simple personal website showcasing my information, technical interests, and co
 ## Usage
 
 1. Clone or download the repository:
-bash```
+   ```bash
      git clone https://github.com/CE-Haneen/my-personal-website.git
    
 3. Open the HTML file in your browser:
