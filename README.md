@@ -10,12 +10,13 @@ A simple personal website showcasing my information, technical interests, and co
 ## Usage
 
 1. Clone or download the repository:
+bash```
      git clone https://github.com/CE-Haneen/my-personal-website.git
    
-2. Open the HTML file in your browser:
+3. Open the HTML file in your browser:
      mypage.html
    
-3. Toggle dark mode:
+4. Toggle dark mode:
    - Click the "Toggle Dark Mode" button at the bottom of the page.
   
 ## Preview
